@@ -26,15 +26,15 @@ The deliverables for this project are a locally deployed Llama model running on 
 
 TOOLS
 
--[x] Intermediate Linux and command line tools (e.g., curl). Linux-like systems such as Mac and Windows WSL are also supported
--[x] Basic CMAKE and Linux dev tools
--[x] Basic Git
--[] Basic Hugging Face
--[x] Python
-TECHNIQUES
+- [X] Intermediate Linux and command line tools (e.g., curl). Linux-like systems such as Mac and Windows WSL are also supported
+- [X]  Basic CMAKE and Linux dev tools
+- [X] Basic Git
+- [ ]  Basic Hugging Face
+- [X]  Python
 
--[x] The ability to work with command line tools
--[x] A basic understanding of how large language models like ChatGPT work
--[x] Familiarity with concepts like model training and inference
--[x] Experience with compiled programming languages. such as C, C++, Java, Go, and Rust
--[x] Ability to deploy and test a web service using JSON over HTTP
+TECHNIQUES
+- [X]  The ability to work with command line tools
+- [X]  A basic understanding of how large language models like ChatGPT work
+- [X]  Familiarity with concepts like model training and inference
+- [X]  Experience with compiled programming languages. such as C, C++, Java, Go, and Rust
+- [X]  Ability to deploy and test a web service using JSON over HTTP
