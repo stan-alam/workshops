@@ -8,6 +8,8 @@ and master the usage of Docker, from how to install it to how you can publish yo
 images and use it in your developer workflow.
 
 Table of Contents
+
+```ascii
 1 Welcome
 2 What will you learn in this course
 3 Who is the course for and prerequisites
@@ -69,3 +71,4 @@ Table of Contents
 59 Tip Creating command line aliases
 60 Container hosting solutions
 61 Course conclusion
+```
