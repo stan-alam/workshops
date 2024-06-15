@@ -8,8 +8,6 @@ and even though they are far from the only way of building APIs, they are the mo
 wide margin. In this course, Nick will teach you how to build REST APIs based on his experience 
 building them for millions of users in billion-dollar companies.
 ```
-
-Table of Contents
 - [ ] Welcome
 - [ ] What will you learn in this course
 - [ ] Who is the course for and prerequisites
