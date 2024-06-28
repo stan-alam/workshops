@@ -1,0 +1,92 @@
+## Clean Code in C# workshop
+
+- [ ] Welcome
+- [ ] What will you learn in this course
+- [ ] Who is the course for and prerequisites
+- [ ] Why Clean Code is essential
+- [ ] The Boy Scout Rule
+- [ ] The Broken Windows Theory
+- [ ] The YAGNI principle
+- [ ] The KISS principle
+- [ ] The Principle of Least Surprise
+- [ ] What is Coupling
+- [ ] What is Cohesion
+- [ ] Readability vs Performance
+- [ ] Spotting Duplication
+- [ ] Writing Idiomatic code
+- [ ] Section Recap
+- [ ] Introduction
+- [ ] The impact of Naming
+- [ ] How long should a Name be
+- [ ] Naming Variables
+- [ ] Naming Booleans
+- [ ] Naming Methods
+- [ ] Naming Classes
+- [ ] Using Acronyms and Abbreviations
+- [ ] Section Recap (two)
+- [ ] Introduction (two)
+- [ ] Good and Bad Comments
+- [ ] Removing Historic Comments
+- [ ] Converting Comments to Code
+- [ ] Removing Formatting Comments
+- [ ] Replacing Comments with Tests
+- [ ] Section Recap (three)
+- [ ] Introduction (three)
+- [ ] Applying Indentation
+- [ ] Using Braces
+- [ ] Using Whitespace
+- [ ] Vertically Ordering a Class
+- [ ] Section Recap (four)
+- [ ] Introduction (four)
+- [ ] Writing Boolean Comparisons
+- [ ] Removing Double Negatives
+- [ ] Avoiding short-circuits
+- [ ] Avoiding Magic Numbers
+- [ ] Expressive Switch Statements
+- [ ] Section Recap (five)
+- [ ] Introduction (five)
+- [ ] Removing Nesting
+- [ ] Returning early
+- [ ] Using Guard Clauses
+- [ ] Applying the Single Responsibility Principle
+- [ ] Removing Flag Arguments
+- [ ] Parameter Order
+- [ ] Controlling the number of Parameters
+- [ ] Output Parameters
+- [ ] Working with collections
+- [ ] Section Recap (six)
+- [ ] Introduction
+- [ ] Exceptions vs Error Codes
+- [ ] Writing the Try-Catch block
+- [ ] Providing Context with Exceptions
+- [ ] Section Recap
+- [ ] Introduction (two)
+- [ ] Applying the Single Responsibility Principle
+- [ ] Segregating Interface
+- [ ] Writing Constructors
+- [ ] Removing Nested Classes
+- [ ] Converting anemic to rich objects
+- [ ] Primitive Obsession
+- [ ] Section Recap (two)
+- [ ] Introduction (three)
+- [ ] The Problem of Nulls
+- [ ] Creating Null Objects
+- [ ] Rewriting Null Returns
+- [ ] Section Recap (three)
+- [ ] Introduction (four)
+- [ ] The importance of Tests to Clean Code
+- [ ] Writing better assertions
+- [ ] Using the Act, Arrange, Assert structure
+- [ ] Replacing Mocks with real Objects
+- [ ] Using Test Data Builders
+- [ ] Using realistic test data
+- [ ] Section Recap (four)
+- [ ] Introduction (five)
+- [ ] Measuring code complexity
+- [ ] Using refactoring tools
+- [ ] Applying Standards with an editorconfig
+- [ ] Using a Spell Checker
+- [ ] Enforcing Code Quality
+- [ ] Section Recap (five)
+- [ ] Refactoring Walkthrough
+- [ ] Conclusion
