@@ -1,0 +1,83 @@
+## Entity Framework (DOT) NET
+
+- [ ] What will you learn in this course
+- [ ] Who is the course for
+- [ ] What is an ORM
+- [ ] Where are ORMs useful
+- [ ] What is EF Core
+- [ ] Introducing the database context
+- [ ] How does a DbContext work
+- [ ] Section recap
+- [ ] The application we will build the data access for
+- [ ] Creating our first EFCore Model
+- [ ] Getting the Model to work in our application
+- [ ] Implementing data manipulation operations
+- [ ] Implementing query behavior
+- [ ] Seeing what goes on in the Database
+- [ ] Projecting data to optimize queries
+- [ ] Section recap (two)
+- [ ] Taking a look at the DB schema
+- [ ] Introducing DataAnnotations for our Model
+- [ ] Achieving similar results with FluentAPI
+- [ ] One-to-many relationships between entities
+- [ ] Converting between different data types
+- [ ] Using owned and complex types to group data
+- [ ] Generating values in the model
+- [ ] Hiding some database fields from our model
+- [ ] Applying global query filters
+- [ ] Section recap (three)
+- [ ] Why do we need migrations
+- [ ] The - [ ] migration philosophies
+- [ ] Adding our first migration
+- [ ] Adding migrations after changing the model
+- [ ] Executing Migrations from the CLI
+- [ ] Dealing with an out-of-sync model
+- [ ] The proper way to execute migrations
+- [ ] Section recap (four)
+- [ ] What are the challenges in tests with ORMs
+- [ ] Using Test databases
+- [ ] Using a database in memory
+- [ ] Faking DbSets in unit tests
+- [ ] The repository pattern
+- [ ] Integration testing with EF Core
+- [ ] Section recap (five)
+- [ ] Section recap (six)
+- [ ] Dependency Injection
+- [ ] Configuring Logging
+- [ ] DbContext Lifecycle
+- [ ] More on repositories
+- [ ] Different multi-tenant approaches
+- [ ] Multi-tenant with discriminators
+- [ ] Multi-tenant with separate databases
+- [ ] My take on architecture
+- [ ] Section recap (seven)
+- [ ] More DbContext features
+- [ ] Using inheritance in your model
+- [ ] Using Alternate keys
+- [ ] One-to-one relationships
+- [ ] Many-to-many relationships
+- [ ] Using compound keys
+- [ ] Using raw SQL queries for your entities
+- [ ] Using keyless entities to query your database
+- [ ] Using the ChangeTracker for fun & profit
+- [ ] Section recap (eight)
+- [ ] The typical types of performance issues
+- [ ] Slow Queries & DB indices
+- [ ] Using compiled queries to improve runtime performance
+- [ ] Using batching to execute bulk queries
+- [ ] Loading related data – strategies
+- [ ] Untracked query results
+- [ ] Solving Concurrency Issues
+- [ ] Section recap (nine)
+- [ ] When the DB already exists
+- [ ] Using the DB to generate a model
+- [ ] How can we further evolve the model
+- [ ] Regenerating every time a demo
+- [ ] Keeping in sync manually a demo
+- [ ] Section recap (ten)
+- [ ] EF Core isn’t just for SQL server
+- [ ] Using another RDBMS’s with EFCore
+- [ ] What is CosmosDB
+- [ ] Switching our system to CosmosDB
+- [ ] Section recap (eleven)
+- [ ] Conclusion
