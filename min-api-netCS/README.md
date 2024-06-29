@@ -1,0 +1,56 @@
+## Min API in (dot) NET C#
+
+- [ ] How we’ve been building APIs in .NET until now
+- [ ] What are Minimal APIs
+- [ ] Who are Minimal APIs for
+- [ ] Building the Weather Forecast API using Minimal APIs
+- [ ] Let’s clear a few misconceptions
+- [ ] Configuring URLs and ports
+- [ ] Creating new endpoints
+- [ ] The different return types
+- [ ] Routing requests
+- [ ] Route parameters and rules
+- [ ] Parameter Binding
+- [ ] Special parameter types
+- [ ] Configuring services
+- [ ] Configuring middleware
+- [ ] Custom parameter binding
+- [ ] Available response types
+- [ ] Logging
+- [ ] Adding Swagger support
+- [ ] Controller interoperability
+- [ ] What are we going to build
+- [ ] Exercise Build the API
+- [ ] Project setup and database creation
+- [ ] Adding new books
+- [ ] Adding validation
+- [ ] Retrieving all books
+- [ ] Retrieving books by ISBN
+- [ ] Retrieving books by title match
+- [ ] Editing books
+- [ ] Deleting books
+- [ ] Loading custom configuration
+- [ ] Adding Authentication & Authorization
+- [ ] Named routes and link generation
+- [ ] Customizing the Web Application options
+- [ ] Defining response contracts for Swagger
+- [ ] Custom JSON binding
+- [ ] Customizing results
+- [ ] Dealing with CORS
+- [ ] Unsupported features compared to MVC
+- [ ] Why structure Minimal APIs
+- [ ] Different ways of structuring
+- [ ] Building the structure framework
+- [ ] Separating the endpoints
+- [ ] Refactoring recap
+- [ ] Why test Minimal APIs
+- [ ] Setting up the test project
+- [ ] The WebApplicationFactory class
+- [ ] Testing resource creation
+- [ ] The problem with created resources
+- [ ] Testing resource lookup
+- [ ] Testing resource search
+- [ ] Testing resource updating
+- [ ] Testing resource deletion
+- [ ] Creating our own WebApplicationFactory
+- [ ] Conclusion
