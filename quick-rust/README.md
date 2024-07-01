@@ -19,7 +19,7 @@ Lesson One Establish Foundations
 - [ ] Understand strings and runes
 - [ ] Delve into arrays and slices
 
-Lesson - [ ] Essential Operators and Functions
+Lesson Two Essential Operators and Functions
 - [ ] Learning objectives
 - [ ] Dive into Go_s operators
 - [ ] Master logical operators and operator precedence
