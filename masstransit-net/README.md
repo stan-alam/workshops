@@ -1,0 +1,68 @@
+- [ ] Communication between services
+- [ ] What is the Problem with HTTP APIs
+- [ ] RPC vs Messaging
+- [ ] Why asynchronous messaging
+- [ ] Things to consider when using asynchronous messaging
+- [ ] Fallacies of distributed computing
+- [ ] Types of coupling
+- [ ] Elements of a messaging system
+- [ ] Channels
+- [ ] Pipes & Filters
+- [ ] Understanding messages
+- [ ] Types of messages
+- [ ] Events
+- [ ] Commands
+- [ ] Commands vs Events
+- [ ] Producers
+- [ ] ConsumersReceivers
+- [ ] Pull & Push consumption models
+- [ ] Queues
+- [ ] Topics & Subscriptions
+- [ ] Message brokersBuses
+- [ ] Brokers vs brokerless
+- [ ] Dead-lettering & poison messages
+- [ ] Load leveling
+- [ ] Delivery modesguarantees
+- [ ] Transports
+- [ ] Event-Driven
+- [ ] Event sourcing
+- [ ] Section recap
+- [ ] Installing RabbitMQ
+- [ ] RabbitMQ concepts
+- [ ] Exchange types
+- [ ] MassTransit overview
+- [ ] Advantages of using MassTransit
+- [ ] Installing MassTransit templates
+- [ ] Demo Opening & preparing the solution
+- [ ] Bus configuration
+- [ ] Message contracts
+- [ ] Sending a message
+- [ ] Messages in detail
+- [ ] Consuming a message
+- [ ] Registering & tuning a message consumer
+- [ ] Configuring consumers & handling errors
+- [ ] Endpoints – configuring
+- [ ] Topologies
+- [ ] Changing the Exchange types
+- [ ] The middleware concept
+- [ ] Pipes & filters (- [ ])
+- [ ] Implementing different filter types
+- [ ] Configure retries
+- [ ] Using Exception Filters & Delayed redeliveries
+- [ ] Using CircuitBreakers
+- [ ] Point to point
+- [ ] Fire & Forget
+- [ ] PublishSubscribe
+- [ ] RequestReply
+- [ ] Competing consumers
+- [ ] Introduction
+- [ ] Getting familiar with the Outbox project
+- [ ] Implementing the outbox pattern
+- [ ] What is the Saga pattern
+- [ ] What is a State machine
+- [ ] Implementing a state machine
+- [ ] Registering & Running the Saga in memory
+- [ ] Running the Saga and persisting it
+- [ ] Testing in MassTransit
+- [ ] Looking at tests
+- [ ] Course conclusion
