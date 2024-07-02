@@ -1,0 +1,37 @@
+## Deep Dive C# workshop
+
+- [ ] Primer on Classes vs Value Types
+- [ ] Enums
+- [ ] Structs
+- [ ] The Problem with Equality
+- [ ] Records
+- [ ] Inheritance – Intro
+- [ ] Inheritance – Vehicle Example
+- [ ] Interfaces
+- [ ] Abstract Classes
+- [ ] Working with Protected and Virtual
+- [ ] Composition
+- [ ] Head to Head – Inheritance
+- [ ] Head to Head – Composition & Summary
+- [ ] Generics
+- [ ] Tuples
+- [ ] Encoding Strings and Bytes
+- [ ] Streams
+- [ ] Reading and Writing Files
+- [ ] Using & Disposable
+- [ ] XML and JSON
+- [ ] Callbacks and Delegates
+- [ ] Extension Methods
+- [ ] LINQ
+- [ ] Lazy
+- [ ] Events
+- [ ] Multi-project solutions
+- [ ] Internal access modifier
+- [ ] NuGet Packages
+- [ ] Async & Concurrency Patterns Intro
+- [ ] Threads
+- [ ] Background Workers
+- [ ] Task Objects
+- [ ] AsyncAwait
+- [ ] Cancellation Tokens
+- [ ] Course conclusion
